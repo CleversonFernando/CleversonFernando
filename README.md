@@ -1,6 +1,6 @@
 
 
-- 🌱 Estudando Java
+- 🌱 Estudando Phyton
 
 <div align ="center">
   <a href="https://github.com/CleversonFernando">
